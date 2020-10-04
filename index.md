@@ -1,37 +1,153 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Big Picture by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>果果 by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/Annie-guo/guoxiru.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Header -->
+			<header id="header">
+				<h1>果果</h1>
+				<nav>
+					<ul>
+						<li><a href="#简要介绍">简要介绍</a></li>
+						<li><a href="#one">兴趣爱好</a></li>
+						<li><a href="#two">基本信息</a></li>
+						<li><a href="#work">我的梦想</a></li>
+						<li><a href="#contact">我想对你说</a></li>
+					</ul>
+				</nav>
+			</header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<!-- 简要介绍 -->
+			<section id="简要介绍" class="main style1 dark fullscreen">
+				<div class="content">
+					<header>
+						<h2>果果的世界.</h2>
+					</header>
+					<p>欢迎来到<strong>果果</strong> 的世界 
+				
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
 
-### Markdown
+		<!-- One -->
+			<section id="one" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>兴趣爱好</h2>
+					</header>
+					<p>1.拉马头琴  2.唱歌  3.跑步.</p>
+				</div>
+				<a href="#two" class="button style2 down anchored">Next</a>
+			</section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		<!-- Two -->
+			<section id="two" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>基本信息</h2>
+					</header>
+					<p>开朗，活泼，乐观，向上是每个认识我的人对我的共同评价。 可以说：“果果是个小太阳，浑身充满正能量。”  果果真名国汐如，18岁，就读于北京大学公共卫生学院预防医学七年制，爱好广泛，爱交朋友，希望和屏幕前的你成为朋友。.</p>
+				</div>
+				<a href="#work" class="button style2 down anchored">Next</a>
+			</section>
 
-```markdown
-Syntax highlighted code block
+		<!-- Work -->
+			<section id="work" class="main style3 primary">
+				<div class="content">
+					<header>
+						<h2>我的梦想</h2>
+						<p>“长江后浪推前浪，一浪更比一浪强。”很小的我相信，我可以超越许多传奇英雄。“高处不胜寒，起舞弄清影，何似在人间。”后来，我慢慢知道有时卓越是要接受内心的孤独，超越凡俗。“登山则情满于山，观海则意溢于海。”原来专注才是那样让人充实和满足。“追着那道光，去寻找方向。”梦想的意义在于什么？实现了它意义在于那份成就感；追逐它本身就让你的人生充满价值。“生活不止眼前的苟且，还有诗和远方的田野。”我永远相信，风景就在指尖流淌的一分一秒中。所以果果的梦想就是享受当下，不负每寸光景，发挥出自己最大的价值.</p>
+					</header>
 
-# Header 1
-## Header 2
-### Header 3
+					<!-- Gallery  -->
+						<div class="gallery">
+							<article class="from-left">
+								<a href="images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="The Anonymous Red" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" title="Air Lounge" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" title="Carry on" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="The sparkling shell" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="Bent IX" alt="" /></a>
+							</article>
+						</div>
 
-- Bulleted
-- List
+				</div>
+			</section>
 
-1. Numbered
-2. List
+		<!-- Contact -->
+			<section id="contact" class="main style3 secondary">
+				<div class="content">
+					<header>
+						<h2>Say Hello.</h2>
+						<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.</p>
+					</header>
+					<div class="box">
+						<form method="post" action="#">
+							<div class="fields">
+								<div class="field half"><input type="text" name="name" placeholder="Name" /></div>
+								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
+								<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
+							</div>
+							<ul class="actions special">
+								<li><input type="submit" value="Send Message" /></li>
+							</ul>
+						</form>
+					</div>
+				</div>
+			</section>
 
-**Bold** and _Italic_ and `Code` text
+		<!-- Footer -->
+			<footer id="footer">
 
-[Link](url) and ![Image](src)
-```
+				<!-- Icons -->
+					<ul class="icons">
+						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
+					</ul>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+				<!-- Menu -->
+					<ul class="menu">
+						<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+					</ul>
 
-### Jekyll Themes
+			</footer>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Annie-guo/guoxiru.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
