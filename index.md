@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 <!--
 	Big Picture by HTML5 UP
@@ -6,7 +7,7 @@
 -->
 <html>
 	<head>
-		<title>果果 by HTML5 UP</title>
+		<title>Big Picture by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -16,26 +17,26 @@
 
 		<!-- Header -->
 			<header id="header">
-				<h1>果果</h1>
+				<h1>Big Picture</h1>
 				<nav>
 					<ul>
-						<li><a href="#简要介绍">简要介绍</a></li>
-						<li><a href="#one">兴趣爱好</a></li>
-						<li><a href="#two">基本信息</a></li>
-						<li><a href="#work">我的梦想</a></li>
-						<li><a href="#contact">我想对你说</a></li>
+						<li><a href="#intro">Intro</a></li>
+						<li><a href="#one">What I Do</a></li>
+						<li><a href="#two">Who I Am</a></li>
+						<li><a href="#work">My Work</a></li>
+						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</nav>
 			</header>
 
-		<!-- 简要介绍 -->
-			<section id="简要介绍" class="main style1 dark fullscreen">
+		<!-- Intro -->
+			<section id="intro" class="main style1 dark fullscreen">
 				<div class="content">
 					<header>
-						<h2>果果的世界.</h2>
+						<h2>Hey.</h2>
 					</header>
-					<p>欢迎来到<strong>果果</strong> 的世界 
-				
+					<p>Welcome to <strong>Big Picture</strong> a responsive site template designed by <a href="https://html5up.net">HTML5 UP</a><br />
+					and released for free under the <a href="https://html5up.net/license">Creative Commons Attribution license</a>.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
@@ -46,9 +47,11 @@
 			<section id="one" class="main style2 right dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>兴趣爱好</h2>
+						<h2>What I Do</h2>
 					</header>
-					<p>1.拉马头琴  2.唱歌  3.跑步.</p>
+					<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
+					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
+					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Next</a>
 			</section>
@@ -57,9 +60,11 @@
 			<section id="two" class="main style2 left dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>基本信息</h2>
+						<h2>Who I Am</h2>
 					</header>
-					<p>开朗，活泼，乐观，向上是每个认识我的人对我的共同评价。 可以说：“果果是个小太阳，浑身充满正能量。”  果果真名国汐如，18岁，就读于北京大学公共卫生学院预防医学七年制，爱好广泛，爱交朋友，希望和屏幕前的你成为朋友。.</p>
+					<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
+					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
+					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Next</a>
 			</section>
@@ -68,8 +73,10 @@
 			<section id="work" class="main style3 primary">
 				<div class="content">
 					<header>
-						<h2>我的梦想</h2>
-						<p>“长江后浪推前浪，一浪更比一浪强。”很小的我相信，我可以超越许多传奇英雄。“高处不胜寒，起舞弄清影，何似在人间。”后来，我慢慢知道有时卓越是要接受内心的孤独，超越凡俗。“登山则情满于山，观海则意溢于海。”原来专注才是那样让人充实和满足。“追着那道光，去寻找方向。”梦想的意义在于什么？实现了它意义在于那份成就感；追逐它本身就让你的人生充满价值。“生活不止眼前的苟且，还有诗和远方的田野。”我永远相信，风景就在指尖流淌的一分一秒中。所以果果的梦想就是享受当下，不负每寸光景，发挥出自己最大的价值.</p>
+						<h2>My Work</h2>
+						<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
+						Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis
+						arcu, id varius justo euismod in. Curabitur egestas consectetur magna vitae.</p>
 					</header>
 
 					<!-- Gallery  -->
